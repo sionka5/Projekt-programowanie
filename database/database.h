@@ -12,6 +12,7 @@ const int columns = 5;
 class baza_pojazdow {
 private:
     int number_of_records = 0;
+    //docelowo tablice dynamiczne uzywajac wektorow
     std::string db[max_records][columns];
     std::string temp_db[max_records][columns];
     void save_to_file(std::string database_to_save[][columns], std::string file_name = main_file_name);

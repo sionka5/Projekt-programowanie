@@ -3,16 +3,19 @@
   "WorkspaceRootPath": "C:\\programowanie\\Projekt Informatyka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E067867-A9F1-4215-B764-BC6D2C64BFFA}|database\\database.vcxproj|C:\\programowanie\\Projekt Informatyka\\database\\database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5E067867-A9F1-4215-B764-BC6D2C64BFFA}|database\\database.vcxproj|solutionrelative:database\\database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E067867-A9F1-4215-B764-BC6D2C64BFFA}|database\\database.vcxproj|C:\\programowanie\\Projekt Informatyka\\database\\database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5E067867-A9F1-4215-B764-BC6D2C64BFFA}|database\\database.vcxproj|solutionrelative:database\\database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E067867-A9F1-4215-B764-BC6D2C64BFFA}|database\\database.vcxproj|C:\\programowanie\\Projekt Informatyka\\database\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5E067867-A9F1-4215-B764-BC6D2C64BFFA}|database\\database.vcxproj|solutionrelative:database\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E067867-A9F1-4215-B764-BC6D2C64BFFA}|database\\database.vcxproj|C:\\programowanie\\Projekt Informatyka\\database\\database_handler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E067867-A9F1-4215-B764-BC6D2C64BFFA}|database\\database.vcxproj|solutionrelative:database\\database_handler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E067867-A9F1-4215-B764-BC6D2C64BFFA}|database\\database.vcxproj|C:\\programowanie\\Projekt Informatyka\\database\\database_handler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E067867-A9F1-4215-B764-BC6D2C64BFFA}|database\\database.vcxproj|solutionrelative:database\\database_handler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +25,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "ViewState": "AgIAAHsIAAAAAAAAAAArwIsIAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-04T22:21:14.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "database.h",
-              "DocumentMoniker": "C:\\programowanie\\Projekt Informatyka\\database\\database.h",
-              "RelativeDocumentMoniker": "database\\database.h",
-              "ToolTip": "C:\\programowanie\\Projekt Informatyka\\database\\database.h",
-              "RelativeToolTip": "database\\database.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-03T20:37:27.21Z",
+              "Title": "menu.cpp",
+              "DocumentMoniker": "C:\\programowanie\\Projekt Informatyka\\database\\menu.cpp",
+              "RelativeDocumentMoniker": "database\\menu.cpp",
+              "ToolTip": "C:\\programowanie\\Projekt Informatyka\\database\\menu.cpp",
+              "RelativeToolTip": "database\\menu.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwGgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T20:37:22.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "database.cpp",
-              "DocumentMoniker": "C:\\programowanie\\Projekt Informatyka\\database\\database.cpp",
-              "RelativeDocumentMoniker": "database\\database.cpp",
-              "ToolTip": "C:\\programowanie\\Projekt Informatyka\\database\\database.cpp",
-              "RelativeToolTip": "database\\database.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "database_handler.cpp",
+              "DocumentMoniker": "C:\\programowanie\\Projekt Informatyka\\database\\database_handler.cpp",
+              "RelativeDocumentMoniker": "database\\database_handler.cpp",
+              "ToolTip": "C:\\programowanie\\Projekt Informatyka\\database\\database_handler.cpp",
+              "RelativeToolTip": "database\\database_handler.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-03T20:37:23.357Z",
               "EditorCaption": ""
@@ -53,14 +69,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "menu.cpp",
-              "DocumentMoniker": "C:\\programowanie\\Projekt Informatyka\\database\\menu.cpp",
-              "RelativeDocumentMoniker": "database\\menu.cpp",
-              "ToolTip": "C:\\programowanie\\Projekt Informatyka\\database\\menu.cpp",
-              "RelativeToolTip": "database\\menu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T20:37:22.292Z",
+              "Title": "database_handler.h",
+              "DocumentMoniker": "C:\\programowanie\\Projekt Informatyka\\database\\database_handler.h",
+              "RelativeDocumentMoniker": "database\\database_handler.h",
+              "ToolTip": "C:\\programowanie\\Projekt Informatyka\\database\\database_handler.h",
+              "RelativeToolTip": "database\\database_handler.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-03T20:37:27.21Z",
               "EditorCaption": ""
             }
           ]
